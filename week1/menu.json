@@ -1,0 +1,51 @@
+{
+    "appetizers":[
+    { "name": "Onion Rings",
+    "ingridients": ["onions", "salt", "pepper"],
+    "description": "8 onion rings served with marinara sauce or honey mustard."}
+    ,
+    {"name": "Cheese Sticks",
+    "ingridients": ["mozarella cheese", "salt", "pepper"],
+    "description": "6 mozarella sticks served with a sauce of your choice."}
+    ]
+    ,
+    "cold sandwiches":[
+    { "name": "Club Sandwich",
+      "ingridients": ["white bread", "muestard cheese", "black forrest ham", "lettuce", "onions", "tomatoes", "mayo", "mustard"],
+      "description": "the sandwich is split into 4 pieces, served with the vegetables on the side."}, 
+    { "name": "Tuna Sandwich",
+      "ingridients": ["wheat bread", "tuna fish", "salt", "pepper", "onion"],
+      "description": "a 4 in piece of wheat french bread filled with a tuna fish sauce."
+      }
+    ],
+    "hot sandwiches":[
+    { "name": "Chimi Beef",
+        "ingridients": ["white bread", "bistec", "provolone cheese", "peppers", "onions", "lettuce", "tomatoes", "salt", "pepper"],
+        "description": "4 in white bread with very well cooked beef, melted cheese and pressed in a sandwich maker."}, 
+        {
+        "name": "Turkey meatballs",
+        "ingridients": ["pita bread", "smoked turkey meat", "beef meatballs", "cheedar cheese", "salt", "pepper"],
+        "description": "Pita bread filled with turkey and meatballs."
+        }
+        ],
+    "desserts":[
+    { "name": "Cheesecake",
+        "ingridients": ["cream cheese", "milk", "salt"],
+        "description": "4 Oz. slice of cream cheese."}, 
+        {
+        "name": "Flan",
+        "ingridients": ["evaporated milk", "eggs", "vanilla", "condensed milk"],
+        "description": "6 Oz. slice of flan."
+        }
+        ],
+    "drinks":[
+    { "name": "Pink Lemonade",
+      "ingridients": ["lemon", "water", "sugar", "food coloring"],
+      "description": "12 Oz. of lemon juice served in 3 Oz of ice with a slice of lemon."}, 
+    { 
+      "name": "Tropical Punch",
+      "ingridients": ["pineapple", "papaya", "mango", "passion fruit", "orange", "water"],
+      "description": "10 Oz, of tropical punch juice serverd in 3 Oz of ice with pieces of fruit."
+        }
+        ]   
+}
