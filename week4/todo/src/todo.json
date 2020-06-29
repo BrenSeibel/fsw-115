@@ -1,0 +1,11 @@
+[
+    {
+        "completed": true,
+        "_id": "5ef9664c398e4004c7772d94",
+        "title": "Todo",
+        "description": "Todo assignment part one",
+        "price": 100,
+        "sessionId": "<BrenSeibel>",
+        "__v": 0
+    }
+]
