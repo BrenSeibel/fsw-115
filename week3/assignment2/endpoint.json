@@ -1,0 +1,34 @@
+[
+    {
+        "completed": false,
+        "_id": "5ef96378398e4004c7772d92",
+        "title": "This is my first post",
+        "description": "I'm excited",
+        "price": 250,
+        "imgUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Finspiringjourneys.com%2Finspiring-new-zealand%2F&psig=AOvVaw1PdEllhEiCOi5MT_zdvuj8&ust=1593488154571000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDipb-NpuoCFQAAAAAdAAAAABAL",
+        "sessionId": "[BrenSeibel]",
+        "__v": 0
+    },
+{
+    "completed": true,
+    "_id": "5ef9625d398e4004c7772d91",
+    "title": "This is my second post",
+    "description": "Dreaming of vacation",
+    "price": 500,
+    "imgUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.telegraph.co.uk%2Ftravel%2Fvisit-dominican-republic%2Fbest-beaches%2F&psig=AOvVaw2VEH3rdDOpppLvVGgdKg2o&ust=1593488299998000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOiqwtaMpuoCFQAAAAAdAAAAABAD",
+    "sessionId": "[BrenSeibel]",
+    "__v": 0
+},
+
+    {
+        "completed": true,
+        "_id": "5ef963d9398e4004c7772d93",
+        "title": "Avengers",
+        "description": "I like Marvel",
+        "price": 100,
+        "imgUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fid.pinterest.com%2Fpin%2F297026537919559914%2F&psig=AOvVaw2n6q7-8W8FikUO-Q1TRQZz&ust=1593488699821000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjG-5KOpuoCFQAAAAAdAAAAABAD",
+        "sessionId": "[BrenSeibel]",
+        "__v": 0
+    }
+
+]
