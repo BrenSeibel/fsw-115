@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Fondamento&family=Modak&display=swap');
+* {
+    --headerFontSize: 2rem;
+    --headerPadding: 0.5rem;
+    --footerFontSize: 1rem;
+    --footerPadding: 1rem;
+}
+
+header {
+    background-color: rgb(160, 4, 100);
+    font-size: 7rem;
+    padding: 2rem;
+    margin: center;
+    text-align: center;
+    color: white;
+    font-family: 'Modak', cursive;
+    /* font-weight: bold; */
+}
+
+main {
+    background-color: rgb(125, 238, 159);
+    font-size: 1.5rem;
+    text-align: center;
+    height: calc(100vh - 1.5rem - 2rem
+    - 1.5rem - 2rem);
+    overflow-y: auto;
+    
+}
+
+footer {
+    background-color: rgb(160, 4, 100);
+    font-size: 1.5rem;
+    padding: 1rem;
+    text-align: center;
+    color: white;
+    font-family: monospace;
+    font-weight: bold;
+}
+
+img {
+    align-self: left;
+}
+
+name, planet, starships {
+    display: block;
+    /* margin-right: 15px; */
+    color: rgb(160, 4, 100);
+    font-family: 'Fondamento', cursive;
+    font-size: 25px;
+}
