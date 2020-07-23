@@ -7,11 +7,6 @@ for (i = 0; i < myNodelist.length; i++) {
   span.appendChild(txt);
   myNodelist[i].appendChild(span);
 }
-// document.getElementsByClassName("addBtn")[0]
-// .addEventListener("click", ()=>{
-// newElement()
-
-// })
 
 var close = document.getElementsByClassName("close");
 var i;
@@ -97,19 +92,3 @@ todoForm.addEventListener("submit", function(event){
 })
 
 console.log(axios)
-
-
-// const checkbox = document.createElement("input")
-// checkbox.type = "checkbox"
-// document.body.appendChild(checkbox)
-
-// checkbox.addEventListener("change", function(event){
-//     console.log(event.target.checked)
-    
-//     axios.put("https://api.vschool.io/BrenSeibel/todo")+
-//     (arr[i]._id), {completed: event.targer.checked}
-//     .then(response => {console.log(response.data)
-    
-//     })
-//     .catch(error => console.log(error))
-// });
